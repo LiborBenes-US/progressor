@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 authors = [
     {name = "Dr. Libor Benes, M.A.", email = "Benes@iwp.edu"}
-S]
+]
 license = {text = "MIT"}
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -26,4 +26,5 @@ classifiers = [
     "Topic :: Software Development :: Libraries",
     "Topic :: Software Development :: User Interfaces",
     "Topic :: Terminals"
+
 ]
