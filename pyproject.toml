@@ -27,3 +27,11 @@ classifiers = [
     "Topic :: Software Development :: User Interfaces",
     "Topic :: Terminals"
 ]
+
+[project.urls]
+Homepage = "https://github.com/LiborBenes-US/progressor_lib"
+Repository = "https://github.com/LiborBenes-US/progressor_lib"
+Issues = "https://github.com/LiborBenes-US/progressor_lib/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/progressor"]
