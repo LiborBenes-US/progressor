@@ -1,5 +1,5 @@
 """
-progressor_lib - Enhanced progress bars with themes, colors, and custom templates.
+progressor-lib - Enhanced progress bars with themes, colors, and custom templates.
 Minimal dependencies, no external libraries needed.
 """
 
