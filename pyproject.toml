@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "progressor_lib"
+name = "progressor-lib"
 version = "1.0.0"
 description = "Enhanced progress bars with themes, colors, and custom templates"
 readme = "README.md"
@@ -35,3 +35,4 @@ Issues = "https://github.com/LiborBenes-US/progressor_lib/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/progressor"]
+
